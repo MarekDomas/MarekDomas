@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello World 👋 I'm Marek
+
+Script kiddo learning how to "code"
+
 
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
